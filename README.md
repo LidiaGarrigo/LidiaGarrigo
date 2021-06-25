@@ -1,5 +1,5 @@
-# ¡Hola mundo!👋 , Soy Lidia Garrigó
-**Junior Front End Developer**
+# <p align=center> ¡Hola mundo!👋 , Soy Lidia Garrigó </p>
+**<p align=center> Junior Front End Developer </p>**
 
 
 Amante del aprendizaje constante.
