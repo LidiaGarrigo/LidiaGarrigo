@@ -41,6 +41,8 @@ Al realizar el Bootcamp de programación, me encantaría poder entrar a formar p
 
 <div align=center>
 
-
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lidiagarrigo&layout=compact)
+  
+![Github stats](https://github-readme-stats.vercel.app/api?username=lidiagarrigo&theme=highcontrast&show_icons=true&count_private=true)
 
 </div>
