@@ -15,7 +15,7 @@ Al realizar el Bootcamp de programación, me encantaría poder entrar a formar p
 
 - 🌱  Aprendiendo React
 
-- 🤝  Conecta conmigo en mi perfil de linkedin: https://www.linkedin.com/in/lidia-garrig%C3%B3/
+- 🤝  Conecta conmigo en mi perfil de linkedin: <a href="https://www.linkedin.com/in/lidia-garrig%C3%B3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkdin"></a>
 
 ## Idiomas y Frameworks que conozco y estoy estudiando:
 <p align="center">
