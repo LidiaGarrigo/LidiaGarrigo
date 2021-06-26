@@ -32,6 +32,7 @@ Al realizar el Bootcamp de programación, me encantaría poder entrar a formar p
   <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/ionic/ionic-original.svg" alt="ionic" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg" alt="java" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/php/php-original.svg" alt="php" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://developer.android.com/studio/images/studio-icon.svg?hl=es" alt="androidStudio" height="40" style="vertical-align:top; margin:4px"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/slack/slack-original.svg" alt="slack" height="40" style="vertical-align:top; margin:4px"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/wordpress/wordpress-plain.svg" alt="wordpress" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"> 
