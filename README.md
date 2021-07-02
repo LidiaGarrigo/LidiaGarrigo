@@ -1,5 +1,5 @@
 # <p align=center> ¡Hola mundo!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Soy Lidia Garrigó </p>
-***<p align=center> Junior Front End Developer </p>***
+**<p align=center> Junior Front End Developer </p>**
 
 
 Amante del aprendizaje constante.
