@@ -17,7 +17,7 @@ Al realizar el Bootcamp de programación, me encantaría poder entrar a formar p
 
 - 🤝  Conecta conmigo en mi perfil de linkedin: <a href="https://www.linkedin.com/in/lidia-garrig%C3%B3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkdin"></a>
 
-## Idiomas y Frameworks que conozco y estoy estudiando:
+<br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg" alt="html" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" alt="css" height="40" style="vertical-align:top; margin:4px">
@@ -35,8 +35,8 @@ Al realizar el Bootcamp de programación, me encantaría poder entrar a formar p
    <img src="https://developer.android.com/studio/images/studio-icon.svg?hl=es" alt="androidStudio" height="40" style="vertical-align:top; margin:4px"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/slack/slack-original.svg" alt="slack" height="40" style="vertical-align:top; margin:4px"> 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"> 
-
 </p>
+<br>
 
 <div align=center>
 
