@@ -40,9 +40,9 @@ Al realizar el Bootcamp de programación, me encantaría poder entrar a formar p
 
 <div align=center>
 
-[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lidiagarrigo&layout=compact)](https://github.com/lidiagarrigo/github-readme-stats)
+[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lidiagarrigo&layout=compact)](https://github.com/lidiagarrigo/LidiaGarrigo)
 
-[![Lidia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lidiagarrigo&theme=highcontrast&show_icons=true&count_private=true)](https://github.com/lidiagarrigo/github-readme-stats)
+[![Lidia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lidiagarrigo&theme=highcontrast&show_icons=true&count_private=true)](https://github.com/lidiagarrigo/LidiaGarrigo)
 
 
 </div>
